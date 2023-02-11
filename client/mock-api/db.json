@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "test@testuser.com",
+      "password": "Password",
+      "username": "WorldDrknss",
+      "id": 1
+    },
+    {
+      "email": "test1@testuser.com",
+      "password": "Password",
+      "username": "ZeroFr13nds",
+      "id": 2
+    }
+  ],
+  "questions": [
+    {
+      "username": "WorldDrknss",
+      "question": "Can you tell me what 2+2 is ??",
+      "solutions": [
+        {
+          "username": "ZeroFr13nds",
+          "solution": "4",
+          "upvotes": [
+            2
+          ],
+          "downvotes": []
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "ZeroFr13nds",
+      "question": "Can you tell me what 5 * 2 is ??",
+      "solutions": [
+        {
+          "username": "WorldDrknss",
+          "solution": "7",
+          "upvotes": [],
+          "downvotes": [
+            1
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
