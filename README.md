@@ -110,7 +110,7 @@ Instagram - [@skynetinc.tech](https://twitter.com/skynetinc.tech)
 
 Facebook - [@skynetinctech](https://facebook.com/skynetinctech)
 
-Project Link: [https://lab.skynetinc.tech/WorldDrknss/Social.Network/](https://lab.skynetinc.tech/WorldDrknss/Social.Network/)
+Project Link: [https://lab.skynetinc.tech/WorldDrknss/Jr.StackOverflow](https://lab.skynetinc.tech/WorldDrknss/Jr.StackOverflow)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
